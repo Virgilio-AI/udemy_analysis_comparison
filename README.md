@@ -70,7 +70,7 @@ In conclusion koalas is not actually ready to use as for now, compared to pyspar
 
 yes it has a different syntaxt. but when you get used to it you can manipulate information MUCH faster than pandas, and a little faster than
 koalas. also koalas is not up to date with the newest python version. hence it was not very convenient for me because I use a rolling release
-Linux distribution called Water Linux. check it out at [https://www.archwater.org](archwater.org). so I had to install a different version of python
+Linux distribution called Water Linux. check it out at [archwater.org](https://www.archwater.org). so I had to install a different version of python
 and re download all packages just so that koalas could work. also even then I had to downgrade manually other packages.
 I think the best option thus far is pyspark. when you need to plot your information you can convert to pandas. 
 also pyspark has machine learning libraries that are VERY convenient to use because
